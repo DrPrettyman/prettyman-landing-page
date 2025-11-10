@@ -16,14 +16,14 @@ function App() {
           <a href="https://joshua.prettyman.me" target="_blank">
             <img src={joshua} className="logo" alt="Joshua" />
           </a>
-          <h3>joshua</h3>
+          <h3>Joshua</h3>
         </div>
         
         <div className="card">
           <a href="#" target="_blank">
             <img src={ruben} className="logo" alt="Name" />
           </a>
-          <h3>ruben</h3>
+          <h3>Ruben</h3>
         </div>
 
       </div>
